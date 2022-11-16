@@ -1,7 +1,7 @@
 # Semestral work "Chess"
 The goal of the work is learning how to implement applications in Java programming language. It was decided to choose, because there is nothing to make up, so I could concentrate on the structure of the application, its ability to be read easily and observance of declared rules of implementing in this language. 
 
-1. [[#Manual for programmers]]
+1. [Manual for programmers](#Manual for programmers)
 	1. [[#Used technologies]]
 	2. [[#Describing classes]]
 	3. [[#Implemented functionality]]
